@@ -1,14 +1,10 @@
-# Coding Test - p5.js Data Structures
+# Coding Test
 
 Please complete the following coding tasks. You must make sure to clearly label where each question is in your code with: `// Question 1` `//Questions 2`
 
 1. **Creating the Structure** display your output into quadrant 1
    
-   - You are tasked with creating an array. Write the code to declare and initialize an empty array called `myArray`.
-
- **Inserting, Deleting, and Replacing Data**
-
-   - Given the array `myArray` from the previous step, write code to do the following:
+   - Write the code to declare and initialize an empty array called `myArray`.
    - add 11 numbers to your array (do not use the numbers 42 or 17) using **index numbers**
    - Insert the value `42` at the end of the array.
    - Delete the element at index `2`.
@@ -18,7 +14,7 @@ Please complete the following coding tasks. You must make sure to clearly label 
 
 2. **Searching, Finding, and Retrieving Data** Display your output in quadrant 2
 
-   - Suppose you have an array called `data` containing the elements `[10, 20, 30, 40, 50,60,70,80,90,100]`. Write code to:
+   - You are given an array called `data` with the elements `[10, 20, 30, 40, 50,60,70,80,90,100]`
    - Write code to check if the value `30` is present in the array, and display the result clearly
    - Find the index of `40` in the array, display it on the screen
 
@@ -27,7 +23,8 @@ Please complete the following coding tasks. You must make sure to clearly label 
 
 3. **Function sum and average** display your output into quadrant 3
 
-   - Write a function that takes in an array `data2`, and displays both the sum and average.
+   - Write a function that takes in an array and displays both the sum and average.
+   - Use `data2` to test your function 
 
 
 4. **If time, draw a something** display in quadrant 4.
