@@ -41,10 +41,11 @@ function setup() {
 function draw() {
   background(255);
   text("Quad 1", 10,10)// dont touch these please
-  text("Quad 2", 210,10)// dont touch these please
-  text("Quad 3", 10,210)// dont touch these please
-  text("Quad 4", 210,210)// dont touch these please
-  line(200,0,200,400);// dont touch these please
-  line(0,200,400,200);//// dont touch these please
+  text("Quad 2", 410,10)// dont touch these please
+  text("Quad 3", 10,410)// dont touch these please
+  text("Quad 4", 410,410)// dont touch these please
+  line(400,0,400,800);// dont touch these please
+  line(0,400,800,400);//// dont touch these please
 }
+
 ```
