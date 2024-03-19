@@ -5,7 +5,7 @@ Please complete the following coding tasks. You must make sure to clearly label 
 1. **Creating the Structure** display your output into quadrant 1
    
    - Write the code to declare and initialize an empty array called `myArray`.
-   - add 11 numbers to your array (do not use the numbers 42 or 17) using **index numbers**
+   - using **index numbers** add 11 numbers to your array (do not use the numbers 42 or 17) 
    - Insert the value `42` at the end of the array.
    - Delete the element at index `2`.
    - Replace the value at index `1` with `17`.
