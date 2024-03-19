@@ -35,7 +35,7 @@ Please complete the following coding tasks. You must make sure to clearly label 
 // data2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 
 function setup() {
-  createCanvas(400, 400); 
+  createCanvas(800, 800); 
 }
 
 function draw() {
